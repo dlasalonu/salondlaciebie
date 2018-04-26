@@ -2471,6 +2471,8 @@ h6,
 
 
 
+
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2545,21 +2547,14 @@ h6,
   text-align: center;
   color: #ffffff;
 }
-#msg-box8-0 .mbr-section-title,
-#msg-box8-0 p {
-  color: #fff;
-}
-#msg-box8-0 .mbr-section-title {
+#header2-a .mbr-section-title {
+  font-size: 36px;
   font-family: 'Lato', sans-serif;
-  text-align: left;
 }
-#msg-box8-0 .lead P {
-  font-family: 'Lato', sans-serif;
-  text-align: left;
+#header2-a .mbr-section-text {
+  font-family: 'Lora', serif;
 }
-#msg-box8-0 .lead {
-  color: #ffffff;
-  text-align: left;
+#header2-a .btn {
   font-family: 'Lato', sans-serif;
 }
 #testimonials2-8 .mbr-section-title {
@@ -2575,6 +2570,15 @@ h6,
 #testimonials2-8 .mbr-section-subtitle {
   color: #ffffff;
 }
+#header2-b .mbr-section-title {
+  font-family: 'Lato', sans-serif;
+  color: #2969b0;
+  font-size: 36px;
+}
+#header2-b .mbr-section-text {
+  font-family: 'Lato', sans-serif;
+  color: #2969b0;
+}
 #msg-box3-0 .mbr-section-title,
 #msg-box3-0 p {
   color: #000;
@@ -2582,16 +2586,19 @@ h6,
 #msg-box3-0 .mbr-section-title {
   font-family: 'Lato', sans-serif;
   font-size: 30px;
-  color: #000000;
+  color: #ffffff;
   text-align: left;
 }
 #msg-box3-0 .lead P {
   font-family: 'Lato', sans-serif;
   text-align: left;
+  color: #ffffff;
+  font-size: 17px;
 }
 #msg-box3-0 .lead UL {
   text-align: left;
   font-family: 'Lato', sans-serif;
+  color: #ffffff;
 }
 #msg-box3-0 .btn {
   font-family: 'Lato', sans-serif;
